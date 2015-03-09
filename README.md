@@ -9,4 +9,6 @@ The object of the game is to cross the block road to the water without getting h
 
 If you are hit by a bug the player is reset back to start and ready to attempt to cross again.   The bugs will not go in the grass so you are safe there.
 
+The game is started when you load index.html into your browser.  The game only recognizes the arrow keys, so use those to move your player up, down, left, or right.  The player is not allowed to move off the game board.
+
 Good Luck!
